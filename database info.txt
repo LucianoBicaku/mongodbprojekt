@@ -1,0 +1,109 @@
+========Connection Info ==========
+
+type: mongoDB
+host: mongoDB atlas
+username : admin
+password : admin1234
+
+connection link:    mongodb+rv://admin:admin1234@learning-1lfzu.mongodb.net/test?retryWrites=true&w=majority
+
+mongo shell:   mongo "mongodb+srv://learning-1lfzu.mongodb.net/test"  --username admin
+
+=========Database Info ===========
+
+Database name: HB_betaVersion
+
+collections: landlord, users, homes
+
+landlord documents info:
+    email: string
+    password: string
+    username: string
+    owned: [ {...} , {...} ] // eshte nje array me objekte qe permban te gjitha pronat e tij
+
+shembull Bson:
+    {
+        "_id": 1,
+        "email": "test@gmail.com",
+        "password": "pasword1",
+        "username": "landlord1",
+        "owned": [
+            {
+                "house1": "string"
+            },
+            {
+                "house2": "string"
+            }
+        ]
+    }
+
+----------------------------------------------------
+
+user documents info:
+    email: string
+    password: string
+    username: string
+    age: num
+    monthlyIncome: num //not recommended
+    currentLocation: {
+        rruga: string,
+        qyteti: string,
+    }
+    contact: [ ] array of strings
+
+shembull BSON:
+    {
+        "email": "test@gmail.com",
+        "password": "password12",
+        "username": "user1",
+        "age": 18,
+        "monthlyIncome": 123000,
+        "currentLocation": {
+          "rruka": "edri keko,",
+          "qyteti": "tirane"
+        },
+        "contact": [
+          "facebook.com",
+          "instagram.com",
+          "linkedin.com"
+        ]
+    }
+
+----------------------------------------------------
+
+home documents info:
+    img [ string, string, ...] array of links (string)
+    description: string
+    past_refernces [string, string, ....] array of strings
+    cmimi: num
+    adress: {
+        rruga: string,
+        qyteti: string,
+    }
+    renting: string ( available / unavailable )
+    sip: num
+    lloji: string
+
+shembull BSON:
+    {
+        "_id": 1,
+        "img": [
+            "link1",
+            "link2",
+            "link3"
+        ],
+        "description": "random text",
+        "past_refernces": [
+            "string",
+            "string",
+            "string"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "rruga e dibres",
+            "qytet": "tirane"
+        },
+        "renting": "string ( available / unavailable )",
+        "siperfaqa": 60,
+        "lloji": "apartament"
+    }
