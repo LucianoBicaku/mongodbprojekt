@@ -5,9 +5,9 @@ host: mongoDB atlas
 username : admin
 password : admin1234
 
-connection link:    mongodb+rv://admin:admin1234@learning-1lfzu.mongodb.net/test?retryWrites=true&w=majority
+connection link:   mongodb+srv://admin:admin1234@learning-1lfzu.mongodb.net
 
-mongo shell:   mongo "mongodb+srv://learning-1lfzu.mongodb.net/test"  --username admin
+mongo shell:   mongo "mongodb+srv://learning-1lfzu.mongodb.net/"  --username admin
 
 =========Database Info ===========
 
