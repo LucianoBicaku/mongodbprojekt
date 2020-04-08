@@ -1,0 +1,12 @@
+db.test.insertOne({ _id: 2, name: "luciano12" });
+db.test.insertOne({ name: "test" });
+
+db.test.find().pretty();
+
+db.test.updateOne({ _id: 1 }, { $set: { name: "lucio" } });
+
+db.test.remove({ name: "lucio" });
+
+db.test.deleteOne({ _id: ObjectId("5e8c2bac5939df3f8067afac") });
+
+//====================documentacioni=========================

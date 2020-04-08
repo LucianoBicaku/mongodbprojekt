@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 1,
+        "email": "test@gmail.com",
+        "password": "pasword1",
+        "username": "landlord1",
+        "owned": [
+            {
+                "house1": "string"
+            },
+            {
+                "house2": "string"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "email": "test2@gmail.com",
+        "password": "pasword2",
+        "username": "landlord2",
+        "owned": [
+            {
+                "house1": "string"
+            },
+            {
+                "house2": "string"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "email": "test3@gmail.com",
+        "password": "pasword3",
+        "username": "landlord3",
+        "owned": [
+            {
+                "house1": "string"
+            },
+            {
+                "house2": "string"
+            }
+        ]
+    }
+]

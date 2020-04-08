@@ -1,0 +1,70 @@
+[
+    {
+        "_id": 1,
+        "email": "test@gmail.com",
+        "password": "password12",
+        "username": "user1",
+        "age": 18,
+        "monthlyIncome": 123000,
+        "currentLocation": {
+            "rruka": "edri keko,",
+            "qyteti": "tirane"
+        },
+        "contact": [
+            "facebook.com",
+            "instagram.com",
+            "linkedin.com"
+        ]
+    },
+    {
+        "_id": 2,
+        "email": "user2@gmail.com",
+        "password": "user2pas",
+        "username": "user2",
+        "age": 20,
+        "monthlyIncome": 123320,
+        "currentLocation": {
+            "rruka": "qemal stafe",
+            "qyteti": "tirane"
+        },
+        "contact": [
+            "facebook.com",
+            "instagram.com",
+            "linkedin.com"
+        ]
+    },
+    {
+        "_id": 3,
+        "email": "user3@gmail.com",
+        "password": "user3pas",
+        "username": "user3",
+        "age": 19,
+        "monthlyIncome": 250320,
+        "currentLocation": {
+            "rruka": "bulevardi zhandark",
+            "qyteti": "tirane"
+        },
+        "contact": [
+            "facebook.com",
+            "instagram.com",
+            "linkedin.com"
+        ]
+    },
+    {
+        "_id": 4,
+        "email": "user4@gmail.com",
+        "password": "user4pas",
+        "username": "user4",
+        "age": 24,
+        "monthlyIncome": 329000,
+        "currentLocation": {
+            "rruka": "rruga barikadave",
+            "qyteti": "tirane"
+        },
+        "contact": [
+            "facebook.com",
+            "instagram.com",
+            "linkedin.com"
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "_id": 1,
+        "img": [
+            "link1",
+            "link2",
+            "link3"
+        ],
+        "description": "random text",
+        "past_refernces": [
+            "string",
+            "string",
+            "string"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "rruga e dibres",
+            "qytet": "tirane"
+        },
+        "renting": "string ( available / unavailable )",
+        "siperfaqa": 32,
+        "lloji": "string"
+    },
+    {
+        "_id": 2,
+        "img": [
+            "link1",
+            "link2",
+            "link3"
+        ],
+        "description": "random text",
+        "past_refernces": [
+            "string",
+            "string",
+            "string"
+        ],
+        "cmimi": 1242300,
+        "adress": {
+            "rruga": "Hoxha tasim",
+            "qytet": "tirane"
+        },
+        "renting": "string ( available / unavailable )",
+        "siperfaqa": 60,
+        "lloji": "apartament"
+    },
+    {
+        "_id": 3,
+        "img": [
+            "link1",
+            "link2",
+            "link3"
+        ],
+        "description": "random text",
+        "past_refernces": [
+            "string",
+            "string",
+            "string"
+        ],
+        "cmimi": 50000,
+        "adress": {
+            "rruga": "xhamlliku",
+            "qytet": "tirane"
+        },
+        "renting": "string ( available / unavailable )",
+        "siperfaqa": 70,
+        "lloji": "shpi private"
+    },
+    {
+        "_id": 4,
+        "img": [
+            "link1",
+            "link2",
+            "link3"
+        ],
+        "description": "random text",
+        "past_refernces": [
+            "string",
+            "string",
+            "string"
+        ],
+        "cmimi": 43222,
+        "adress": {
+            "rruga": "bulevardi zhan dark",
+            "qytet": "tirane"
+        },
+        "renting": "string ( available / unavailable )",
+        "siperfaqa": 70,
+        "lloji": "apartament"
+    },
+    {
+        "_id": 5,
+        "img": [
+            "link1",
+            "link2",
+            "link3"
+        ],
+        "description": "random text",
+        "past_refernces": [
+            "string",
+            "string",
+            "string"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "rruga e dibres",
+            "qytet": "tirane"
+        },
+        "renting": "string ( available / unavailable )",
+        "siperfaqa": 60,
+        "lloji": "apartament"
+    }
+]
