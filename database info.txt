@@ -13,7 +13,7 @@ mongo shell:   mongo "mongodb+srv://learning-1lfzu.mongodb.net/"  --username adm
 
 Database name: HB_betaVersion
 
-collections: landlord, users, homes
+collections: landlords, users, homes
 
 landlord documents info:
     email: string
