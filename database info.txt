@@ -19,8 +19,7 @@ landlord documents info:
     email: string
     password: string
     username: string
-    owned: [num ] // eshte nje array me id e shtepive qe ka landlord
-
+    owned: [{...},{....} ] // eshte nje array me json qe jan shtepit e landlordit
 shembull Bson:
     {
         "_id": 1,
@@ -28,8 +27,28 @@ shembull Bson:
         "password": "pasword1",
         "username": "landlord1",
         "owned": [
-            id: 1,
-	    id:3
+            {
+                "_id": 1,
+                "img": [
+                    "link1",
+                    "link2",
+                    "link3"
+                ],
+                "description": "random text",
+                "past_refernces": [
+                    "string",
+                    "string",
+                    "string"
+                ],
+                "cmimi": 12300,
+                "adress": {
+                    "rruga": "rruga e dibres",
+                    "qytet": "tirane"
+                },
+                "renting": "string ( available / unavailable )",
+                "siperfaqa": 32,
+                "lloji": "string"
+            }
         ]
     }
 

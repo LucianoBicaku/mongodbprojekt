@@ -6,10 +6,26 @@
         "username": "landlord1",
         "owned": [
             {
-                "house1": "string"
-            },
-            {
-                "house2": "string"
+                "_id": 1,
+                "img": [
+                    "link1",
+                    "link2",
+                    "link3"
+                ],
+                "description": "random text",
+                "past_refernces": [
+                    "string",
+                    "string",
+                    "string"
+                ],
+                "cmimi": 12300,
+                "adress": {
+                    "rruga": "rruga e dibres",
+                    "qytet": "tirane"
+                },
+                "renting": "string ( available / unavailable )",
+                "siperfaqa": 32,
+                "lloji": "string"
             }
         ]
     },
@@ -20,10 +36,26 @@
         "username": "landlord2",
         "owned": [
             {
-                "house1": "string"
-            },
-            {
-                "house2": "string"
+                "_id": 2,
+                "img": [
+                    "link1",
+                    "link2",
+                    "link3"
+                ],
+                "description": "random text",
+                "past_refernces": [
+                    "string",
+                    "string",
+                    "string"
+                ],
+                "cmimi": 1242300,
+                "adress": {
+                    "rruga": "Hoxha tasim",
+                    "qytet": "tirane"
+                },
+                "renting": "string ( available / unavailable )",
+                "siperfaqa": 60,
+                "lloji": "apartament"
             }
         ]
     },
@@ -34,10 +66,26 @@
         "username": "landlord3",
         "owned": [
             {
-                "house1": "string"
-            },
-            {
-                "house2": "string"
+                "_id": 3,
+                "img": [
+                    "link1",
+                    "link2",
+                    "link3"
+                ],
+                "description": "random text",
+                "past_refernces": [
+                    "string",
+                    "string",
+                    "string"
+                ],
+                "cmimi": 50000,
+                "adress": {
+                    "rruga": "xhamlliku",
+                    "qytet": "tirane"
+                },
+                "renting": "string ( available / unavailable )",
+                "siperfaqa": 70,
+                "lloji": "shpi private"
             }
         ]
     }
