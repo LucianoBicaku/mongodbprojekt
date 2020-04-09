@@ -22,13 +22,12 @@ landlord documents info:
     owned: [{...},{....} ] // eshte nje array me json qe jan shtepit e landlordit
 shembull Bson:
     {
-        "_id": 1,
+        "_id": ObjectId("5e8eb2d622de46335886f4fd"),
         "email": "test@gmail.com",
         "password": "pasword1",
         "username": "landlord1",
         "owned": [
             {
-                "_id": 1,
                 "img": [
                     "link1",
                     "link2",
@@ -68,19 +67,20 @@ user documents info:
 
 shembull BSON:
     {
+        "_id": ObjectId("5e8eb36822de46335886f500"),
         "email": "test@gmail.com",
         "password": "password12",
         "username": "user1",
         "age": 18,
         "monthlyIncome": 123000,
         "currentLocation": {
-          "rruka": "edri keko,",
-          "qyteti": "tirane"
+            "rruka": "edri keko,",
+            "qyteti": "tirane"
         },
         "contact": [
-          "facebook.com",
-          "instagram.com",
-          "linkedin.com"
+            "facebook.com",
+            "instagram.com",
+            "linkedin.com"
         ]
     }
 
@@ -101,7 +101,7 @@ home documents info:
 
 shembull BSON:
     {
-        "_id": 1,
+        "_id": ObjectId("5e8eb23f22de46335886f4f8"),
         "img": [
             "link1",
             "link2",
@@ -119,6 +119,6 @@ shembull BSON:
             "qytet": "tirane"
         },
         "renting": "string ( available / unavailable )",
-        "siperfaqa": 60,
-        "lloji": "apartament"
+        "siperfaqa": 32,
+        "lloji": "string"
     }

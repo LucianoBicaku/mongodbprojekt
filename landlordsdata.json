@@ -1,12 +1,11 @@
 [
     {
-        "_id": 1,
+        "_id": ObjectId("5e8eb2d622de46335886f4fd"),
         "email": "test@gmail.com",
         "password": "pasword1",
         "username": "landlord1",
         "owned": [
             {
-                "_id": 1,
                 "img": [
                     "link1",
                     "link2",
@@ -30,13 +29,12 @@
         ]
     },
     {
-        "_id": 2,
+        "_id": ObjectId("5e8eb2d622de46335886f4fe"),
         "email": "test2@gmail.com",
         "password": "pasword2",
         "username": "landlord2",
         "owned": [
             {
-                "_id": 2,
                 "img": [
                     "link1",
                     "link2",
@@ -60,13 +58,12 @@
         ]
     },
     {
-        "_id": 3,
+        "_id": ObjectId("5e8eb2d622de46335886f4ff"),
         "email": "test3@gmail.com",
         "password": "pasword3",
         "username": "landlord3",
         "owned": [
             {
-                "_id": 3,
                 "img": [
                     "link1",
                     "link2",

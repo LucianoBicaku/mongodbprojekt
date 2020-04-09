@@ -1,6 +1,6 @@
 [
     {
-        "_id": 1,
+        "_id": ObjectId("5e8eb23f22de46335886f4f8"),
         "img": [
             "link1",
             "link2",
@@ -22,7 +22,7 @@
         "lloji": "string"
     },
     {
-        "_id": 2,
+        "_id": ObjectId("5e8eb23f22de46335886f4f9"),
         "img": [
             "link1",
             "link2",
@@ -44,7 +44,7 @@
         "lloji": "apartament"
     },
     {
-        "_id": 3,
+        "_id": ObjectId("5e8eb23f22de46335886f4fa"),
         "img": [
             "link1",
             "link2",
@@ -66,7 +66,7 @@
         "lloji": "shpi private"
     },
     {
-        "_id": 4,
+        "_id": ObjectId("5e8eb23f22de46335886f4fb"),
         "img": [
             "link1",
             "link2",
@@ -88,7 +88,7 @@
         "lloji": "apartament"
     },
     {
-        "_id": 5,
+        "_id": ObjectId("5e8eb23f22de46335886f4fc"),
         "img": [
             "link1",
             "link2",

@@ -1,5 +1,3 @@
-//=========== Create landlord collection =================
-
 db.landlords.find().pretty();
 db.homes.find().pretty();
 db.users.find().pretty();
