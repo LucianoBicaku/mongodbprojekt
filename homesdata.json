@@ -1,6 +1,6 @@
 [
     {
-        "_id": ObjectId("5e8eb23f22de46335886f4f8"),
+        "_id": ObjectId("5e907f33a028f01db42f1ae8"),
         "img": [
             "link1",
             "link2",
@@ -19,10 +19,11 @@
         },
         "renting": "string ( available / unavailable )",
         "siperfaqa": 32,
+        "nr_dhomash": 3,
         "lloji": "string"
     },
     {
-        "_id": ObjectId("5e8eb23f22de46335886f4f9"),
+        "_id": ObjectId("5e907f33a028f01db42f1ae9"),
         "img": [
             "link1",
             "link2",
@@ -41,10 +42,11 @@
         },
         "renting": "string ( available / unavailable )",
         "siperfaqa": 60,
+        "nr_dhomash": 3,
         "lloji": "apartament"
     },
     {
-        "_id": ObjectId("5e8eb23f22de46335886f4fa"),
+        "_id": ObjectId("5e907f33a028f01db42f1aea"),
         "img": [
             "link1",
             "link2",
@@ -63,10 +65,11 @@
         },
         "renting": "string ( available / unavailable )",
         "siperfaqa": 70,
+        "nr_dhomash": 3,
         "lloji": "shpi private"
     },
     {
-        "_id": ObjectId("5e8eb23f22de46335886f4fb"),
+        "_id": ObjectId("5e907f33a028f01db42f1aeb"),
         "img": [
             "link1",
             "link2",
@@ -85,10 +88,11 @@
         },
         "renting": "string ( available / unavailable )",
         "siperfaqa": 70,
+        "nr_dhomash": 3,
         "lloji": "apartament"
     },
     {
-        "_id": ObjectId("5e8eb23f22de46335886f4fc"),
+        "_id": ObjectId("5e907f33a028f01db42f1aec"),
         "img": [
             "link1",
             "link2",
@@ -107,6 +111,7 @@
         },
         "renting": "string ( available / unavailable )",
         "siperfaqa": 60,
+        "nr_dhomash": 3,
         "lloji": "apartament"
     }
 ]

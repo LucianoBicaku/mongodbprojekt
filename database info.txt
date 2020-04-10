@@ -97,11 +97,12 @@ home documents info:
     }
     renting: string ( available / unavailable )
     sip: num
+    nr_dhomash: num
     lloji: string
 
 shembull BSON:
     {
-        "_id": ObjectId("5e8eb23f22de46335886f4f8"),
+        "_id": ObjectId("5e907f33a028f01db42f1aeb"),
         "img": [
             "link1",
             "link2",
@@ -113,12 +114,13 @@ shembull BSON:
             "string",
             "string"
         ],
-        "cmimi": 12300,
+        "cmimi": 43222,
         "adress": {
-            "rruga": "rruga e dibres",
+            "rruga": "bulevardi zhan dark",
             "qytet": "tirane"
         },
         "renting": "string ( available / unavailable )",
-        "siperfaqa": 32,
-        "lloji": "string"
+        "siperfaqa": 70,
+        "nr_dhomash": 3,
+        "lloji": "apartament"
     }

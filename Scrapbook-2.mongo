@@ -1,3 +1,76 @@
 db.landlords.find().pretty();
 db.homes.find().pretty();
 db.users.find().pretty();
+
+db.homes.insertMany([
+  {
+    img: ["link1", "link2", "link3"],
+    description: "random text",
+    past_refernces: ["string", "string", "string"],
+    cmimi: 12300,
+    adress: {
+      rruga: "rruga e dibres",
+      qytet: "tirane",
+    },
+    renting: "string ( available / unavailable )",
+    siperfaqa: 32,
+    nr_dhomash: 3,
+    lloji: "string",
+  },
+  {
+    img: ["link1", "link2", "link3"],
+    description: "random text",
+    past_refernces: ["string", "string", "string"],
+    cmimi: 1242300,
+    adress: {
+      rruga: "Hoxha tasim",
+      qytet: "tirane",
+    },
+    renting: "string ( available / unavailable )",
+    siperfaqa: 60,
+    nr_dhomash: 3,
+    lloji: "apartament",
+  },
+  {
+    img: ["link1", "link2", "link3"],
+    description: "random text",
+    past_refernces: ["string", "string", "string"],
+    cmimi: 50000,
+    adress: {
+      rruga: "xhamlliku",
+      qytet: "tirane",
+    },
+    renting: "string ( available / unavailable )",
+    siperfaqa: 70,
+    nr_dhomash: 3,
+    lloji: "shpi private",
+  },
+  {
+    img: ["link1", "link2", "link3"],
+    description: "random text",
+    past_refernces: ["string", "string", "string"],
+    cmimi: 43222,
+    adress: {
+      rruga: "bulevardi zhan dark",
+      qytet: "tirane",
+    },
+    renting: "string ( available / unavailable )",
+    siperfaqa: 70,
+    nr_dhomash: 3,
+    lloji: "apartament",
+  },
+  {
+    img: ["link1", "link2", "link3"],
+    description: "random text",
+    past_refernces: ["string", "string", "string"],
+    cmimi: 12300,
+    adress: {
+      rruga: "rruga e dibres",
+      qytet: "tirane",
+    },
+    renting: "string ( available / unavailable )",
+    siperfaqa: 60,
+    nr_dhomash: 3,
+    lloji: "apartament",
+  },
+]);
