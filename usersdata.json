@@ -1,10 +1,12 @@
 [
     {
-        "_id": ObjectId("5e8eb36822de46335886f500"),
+        "_id": ObjectId("5e9869818b2ca12b04842e1a"),
         "email": "test@gmail.com",
         "password": "password12",
+        "isVerified": true,
         "username": "user1",
         "age": 18,
+        "gender": "male",
         "monthlyIncome": 123000,
         "currentLocation": {
             "rruka": "edri keko,",
@@ -17,11 +19,13 @@
         ]
     },
     {
-        "_id": ObjectId("5e8eb36822de46335886f501"),
+        "_id": ObjectId("5e9869818b2ca12b04842e1b"),
         "email": "user2@gmail.com",
         "password": "user2pas",
+        "isVerified": false,
         "username": "user2",
         "age": 20,
+        "gender": "male",
         "monthlyIncome": 123320,
         "currentLocation": {
             "rruka": "qemal stafe",
@@ -34,11 +38,13 @@
         ]
     },
     {
-        "_id": ObjectId("5e8eb36822de46335886f502"),
+        "_id": ObjectId("5e9869818b2ca12b04842e1c"),
         "email": "user3@gmail.com",
         "password": "user3pas",
+        "isVerified": true,
         "username": "user3",
         "age": 19,
+        "gender": "other",
         "monthlyIncome": 250320,
         "currentLocation": {
             "rruka": "bulevardi zhandark",
@@ -51,11 +57,13 @@
         ]
     },
     {
-        "_id": ObjectId("5e8eb36822de46335886f503"),
+        "_id": ObjectId("5e9869818b2ca12b04842e1d"),
         "email": "user4@gmail.com",
         "password": "user4pas",
+        "isVerified": false,
         "username": "user4",
         "age": 24,
+        "gender": "female",
         "monthlyIncome": 329000,
         "currentLocation": {
             "rruka": "rruga barikadave",
