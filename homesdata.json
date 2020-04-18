@@ -1,117 +1,325 @@
 [
     {
-        "_id": ObjectId("5e907f33a028f01db42f1ae8"),
         "img": [
-            "link1",
-            "link2",
-            "link3"
+            "https://i.ibb.co/q7XwJsj/home1.jpg"
         ],
-        "description": "random text",
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
         "past_refernces": [
-            "string",
-            "string",
-            "string"
+            "Shtepi ne gjendje te mire"
         ],
         "cmimi": 12300,
         "adress": {
-            "rruga": "rruga e dibres",
-            "qytet": "tirane"
+            "rruga": "Vasil Shanto",
+            "qytet": "Tirane"
         },
-        "renting": "string ( available / unavailable )",
+        "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
-        "lloji": "string"
+        "lloji": "apartament",
+        "premium": true
     },
     {
-        "_id": ObjectId("5e907f33a028f01db42f1ae9"),
         "img": [
-            "link1",
-            "link2",
-            "link3"
+            "https://i.ibb.co/tLtPkRv/home2.jpg"
         ],
-        "description": "random text",
+        "description": "Apartament me qera prane Vasil Shntos 3+2",
         "past_refernces": [
-            "string",
-            "string",
-            "string"
-        ],
-        "cmimi": 1242300,
-        "adress": {
-            "rruga": "Hoxha tasim",
-            "qytet": "tirane"
-        },
-        "renting": "string ( available / unavailable )",
-        "siperfaqa": 60,
-        "nr_dhomash": 3,
-        "lloji": "apartament"
-    },
-    {
-        "_id": ObjectId("5e907f33a028f01db42f1aea"),
-        "img": [
-            "link1",
-            "link2",
-            "link3"
-        ],
-        "description": "random text",
-        "past_refernces": [
-            "string",
-            "string",
-            "string"
-        ],
-        "cmimi": 50000,
-        "adress": {
-            "rruga": "xhamlliku",
-            "qytet": "tirane"
-        },
-        "renting": "string ( available / unavailable )",
-        "siperfaqa": 70,
-        "nr_dhomash": 3,
-        "lloji": "shpi private"
-    },
-    {
-        "_id": ObjectId("5e907f33a028f01db42f1aeb"),
-        "img": [
-            "link1",
-            "link2",
-            "link3"
-        ],
-        "description": "random text",
-        "past_refernces": [
-            "string",
-            "string",
-            "string"
-        ],
-        "cmimi": 43222,
-        "adress": {
-            "rruga": "bulevardi zhan dark",
-            "qytet": "tirane"
-        },
-        "renting": "string ( available / unavailable )",
-        "siperfaqa": 70,
-        "nr_dhomash": 3,
-        "lloji": "apartament"
-    },
-    {
-        "_id": ObjectId("5e907f33a028f01db42f1aec"),
-        "img": [
-            "link1",
-            "link2",
-            "link3"
-        ],
-        "description": "random text",
-        "past_refernces": [
-            "string",
-            "string",
-            "string"
+            "Shtepi ne gjendje shume  te mire"
         ],
         "cmimi": 12300,
         "adress": {
-            "rruga": "rruga e dibres",
-            "qytet": "tirane"
+            "rruga": "Vasil Shanto",
+            "qytet": "Tirane"
         },
-        "renting": "string ( available / unavailable )",
-        "siperfaqa": 60,
+        "gjendja": "rent",
+        "siperfaqa": 32,
         "nr_dhomash": 3,
-        "lloji": "apartament"
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/3F26Rbb/home3.jpg"
+        ],
+        "description": "Apartament me qera prane Xhamllikut 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Xhamllik",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/7jphK8k/home4.jpg"
+        ],
+        "description": "Apartament me qera prane Rruges se Dibres 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Dibres",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/NV0YSb6/home5.jpg"
+        ],
+        "description": "Apartament me qera prane Hoxha Tasim 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Hoxha Tasim",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/HXSDJWp/home6.jpg"
+        ],
+        "description": "Apartament me qera prane Brrylit 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Brryli",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/XVtLk7F/home7.jpg"
+        ],
+        "description": "Shtepi Private per shitje prane Rruges Endri Keko 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Xhamllik",
+            "qytet": "Tirane"
+        },
+        "gjendja": "sale",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "shptepi private",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/10tcrsZ/home8.jpg"
+        ],
+        "description": "Apartament per shitje prane Rruges Endri Keko 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Xhamllik",
+            "qytet": "Tirane"
+        },
+        "gjendja": "sale",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/Z24LxrY/home9.jpg"
+        ],
+        "description": "Apartament me qera prane Rruges Endri Keko 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Xhamllik",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "img": [
+            "https://i.ibb.co/yYSxgR8/home10.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/TYPS3tf/home11.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/yFnmHvB/home12.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/8zx567d/home13.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/Wx2s6DP/home14.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/k0v8T79/home15.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/yYRHfXS/home16.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
+    },
+    {
+        "img": [
+            "https://i.ibb.co/9gzRq4x/home17.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje shume  te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 3,
+        "lloji": "apartament",
+        "premium": false
     }
 ]

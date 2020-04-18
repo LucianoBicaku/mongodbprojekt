@@ -95,32 +95,30 @@ home documents info:
         rruga: string,
         qyteti: string,
     }
-    renting: string ( available / unavailable )
-    sip: num
+    gjendja: string sale/rent
+    siperfaqa: num
     nr_dhomash: num
     lloji: string
+    prmium : boolean
 
 shembull BSON:
     {
-        "_id": ObjectId("5e907f33a028f01db42f1aeb"),
-        "img": [
-            "link1",
-            "link2",
-            "link3"
-        ],
-        "description": "random text",
-        "past_refernces": [
-            "string",
-            "string",
-            "string"
-        ],
-        "cmimi": 43222,
-        "adress": {
-            "rruga": "bulevardi zhan dark",
-            "qytet": "tirane"
-        },
-        "renting": "string ( available / unavailable )",
-        "siperfaqa": 70,
-        "nr_dhomash": 3,
-        "lloji": "apartament"
-    }
+	"_id" : ObjectId("5e9ac9ee3c11c713e04068fd"),
+	"img" : [
+		"https://i.ibb.co/q7XwJsj/home1.jpg"
+	],
+	"description" : "Apartament me qera prane Vasil Shantos 2+1",
+	"past_refernces" : [
+		"Shtepi ne gjendje te mire"
+	],
+	"cmimi" : 12300,
+	"adress" : {
+		"rruga" : "Vasil Shanto",
+		"qytet" : "Tirane"
+	},
+	"gjendja" : "rent",
+	"siperfaqa" : 32,
+	"nr_dhomash" : 3,
+	"lloji" : "apartament",
+	"premium" : true
+}
