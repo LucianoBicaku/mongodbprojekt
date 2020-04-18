@@ -1,3 +1,7 @@
 db.landlords.find().pretty();
 db.homes.find().pretty();
 db.users.find().pretty();
+
+db.homes.find({ cmimi: { $gte: 12330, $lte: 23300 } });
+
+db.homes.drop();

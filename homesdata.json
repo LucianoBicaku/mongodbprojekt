@@ -1,5 +1,6 @@
 [
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f45"),
         "img": [
             "https://i.ibb.co/q7XwJsj/home1.jpg"
         ],
@@ -14,11 +15,12 @@
         },
         "gjendja": "rent",
         "siperfaqa": 32,
-        "nr_dhomash": 3,
+        "nr_dhomash": 2,
         "lloji": "apartament",
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f46"),
         "img": [
             "https://i.ibb.co/tLtPkRv/home2.jpg"
         ],
@@ -33,11 +35,12 @@
         },
         "gjendja": "rent",
         "siperfaqa": 32,
-        "nr_dhomash": 3,
+        "nr_dhomash": 2,
         "lloji": "apartament",
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f47"),
         "img": [
             "https://i.ibb.co/3F26Rbb/home3.jpg"
         ],
@@ -52,11 +55,12 @@
         },
         "gjendja": "rent",
         "siperfaqa": 32,
-        "nr_dhomash": 3,
+        "nr_dhomash": 2,
         "lloji": "apartament",
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f48"),
         "img": [
             "https://i.ibb.co/7jphK8k/home4.jpg"
         ],
@@ -76,6 +80,7 @@
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f49"),
         "img": [
             "https://i.ibb.co/NV0YSb6/home5.jpg"
         ],
@@ -83,7 +88,7 @@
         "past_refernces": [
             "Shtepi ne gjendje shume  te mire"
         ],
-        "cmimi": 12300,
+        "cmimi": 22300,
         "adress": {
             "rruga": "Hoxha Tasim",
             "qytet": "Tirane"
@@ -95,6 +100,7 @@
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f4a"),
         "img": [
             "https://i.ibb.co/HXSDJWp/home6.jpg"
         ],
@@ -114,6 +120,7 @@
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f4b"),
         "img": [
             "https://i.ibb.co/XVtLk7F/home7.jpg"
         ],
@@ -133,6 +140,7 @@
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f4c"),
         "img": [
             "https://i.ibb.co/10tcrsZ/home8.jpg"
         ],
@@ -152,6 +160,7 @@
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f4d"),
         "img": [
             "https://i.ibb.co/Z24LxrY/home9.jpg"
         ],
@@ -171,6 +180,7 @@
         "premium": true
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f4e"),
         "img": [
             "https://i.ibb.co/yYSxgR8/home10.jpg"
         ],
@@ -190,6 +200,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f4f"),
         "img": [
             "https://i.ibb.co/TYPS3tf/home11.jpg"
         ],
@@ -209,6 +220,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f50"),
         "img": [
             "https://i.ibb.co/yFnmHvB/home12.jpg"
         ],
@@ -228,6 +240,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f51"),
         "img": [
             "https://i.ibb.co/8zx567d/home13.jpg"
         ],
@@ -247,6 +260,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f52"),
         "img": [
             "https://i.ibb.co/Wx2s6DP/home14.jpg"
         ],
@@ -266,6 +280,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f53"),
         "img": [
             "https://i.ibb.co/k0v8T79/home15.jpg"
         ],
@@ -285,6 +300,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f54"),
         "img": [
             "https://i.ibb.co/yYRHfXS/home16.jpg"
         ],
@@ -304,6 +320,7 @@
         "premium": false
     },
     {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f55"),
         "img": [
             "https://i.ibb.co/9gzRq4x/home17.jpg"
         ],
@@ -318,8 +335,48 @@
         },
         "gjendja": "rent",
         "siperfaqa": 32,
-        "nr_dhomash": 3,
+        "nr_dhomash": 1,
         "lloji": "apartament",
         "premium": false
+    },
+    {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f56"),
+        "img": [
+            "https://i.ibb.co/q7XwJsj/home1.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil Shanto",
+            "qytet": "Tirane"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 1,
+        "lloji": "apartament",
+        "premium": true
+    },
+    {
+        "_id": ObjectId("5e9b1f6982b3d73e78731f57"),
+        "img": [
+            "https://i.ibb.co/q7XwJsj/home1.jpg"
+        ],
+        "description": "Apartament me qera prane Vasil Shantos 2+1",
+        "past_refernces": [
+            "Shtepi ne gjendje te mire"
+        ],
+        "cmimi": 12300,
+        "adress": {
+            "rruga": "Vasil Shanto",
+            "qytet": "Lushnje"
+        },
+        "gjendja": "rent",
+        "siperfaqa": 32,
+        "nr_dhomash": 1,
+        "lloji": "apartament",
+        "premium": true
     }
 ]
