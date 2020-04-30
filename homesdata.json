@@ -1,6 +1,6 @@
 [
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f45"),
+        "_id": ObjectId("5eab005b0284e043b4166e9a"),
         "img": [
             "https://i.ibb.co/q7XwJsj/home1.jpg"
         ],
@@ -13,6 +13,10 @@
             "rruga": "Vasil Shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.332125,
+            "long": 19.824737
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 2,
@@ -20,7 +24,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f46"),
+        "_id": ObjectId("5eab005b0284e043b4166e9b"),
         "img": [
             "https://i.ibb.co/tLtPkRv/home2.jpg"
         ],
@@ -33,6 +37,10 @@
             "rruga": "Vasil Shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.334728,
+            "long": 19.819325
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 2,
@@ -40,7 +48,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f47"),
+        "_id": ObjectId("5eab005b0284e043b4166e9c"),
         "img": [
             "https://i.ibb.co/3F26Rbb/home3.jpg"
         ],
@@ -53,6 +61,10 @@
             "rruga": "Xhamllik",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.334052,
+            "long": 19.809641
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 2,
@@ -60,7 +72,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f48"),
+        "_id": ObjectId("5eab005b0284e043b4166e9d"),
         "img": [
             "https://i.ibb.co/7jphK8k/home4.jpg"
         ],
@@ -73,6 +85,10 @@
             "rruga": "Dibres",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.331458,
+            "long": 19.805433
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -80,7 +96,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f49"),
+        "_id": ObjectId("5eab005b0284e043b4166e9e"),
         "img": [
             "https://i.ibb.co/NV0YSb6/home5.jpg"
         ],
@@ -93,6 +109,10 @@
             "rruga": "Hoxha Tasim",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.324967,
+            "long": 19.782213
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -100,7 +120,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f4a"),
+        "_id": ObjectId("5eab005b0284e043b4166e9f"),
         "img": [
             "https://i.ibb.co/HXSDJWp/home6.jpg"
         ],
@@ -113,6 +133,10 @@
             "rruga": "Brryli",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.322413,
+            "long": 19.80793
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -120,7 +144,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f4b"),
+        "_id": ObjectId("5eab005b0284e043b4166ea0"),
         "img": [
             "https://i.ibb.co/XVtLk7F/home7.jpg"
         ],
@@ -133,6 +157,10 @@
             "rruga": "Xhamllik",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.320608,
+            "long": 19.823396
+        },
         "gjendja": "sale",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -140,7 +168,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f4c"),
+        "_id": ObjectId("5eab005b0284e043b4166ea1"),
         "img": [
             "https://i.ibb.co/10tcrsZ/home8.jpg"
         ],
@@ -153,6 +181,10 @@
             "rruga": "Xhamllik",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.320608,
+            "long": 19.823396
+        },
         "gjendja": "sale",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -160,7 +192,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f4d"),
+        "_id": ObjectId("5eab005b0284e043b4166ea2"),
         "img": [
             "https://i.ibb.co/Z24LxrY/home9.jpg"
         ],
@@ -173,6 +205,10 @@
             "rruga": "Xhamllik",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.338025,
+            "long": 19.844689
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -180,7 +216,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f4e"),
+        "_id": ObjectId("5eab005b0284e043b4166ea3"),
         "img": [
             "https://i.ibb.co/yYSxgR8/home10.jpg"
         ],
@@ -193,6 +229,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.329389,
+            "long": 19.846832
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -200,7 +240,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f4f"),
+        "_id": ObjectId("5eab005b0284e043b4166ea4"),
         "img": [
             "https://i.ibb.co/TYPS3tf/home11.jpg"
         ],
@@ -213,6 +253,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.339185,
+            "long": 19.852574
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -220,7 +264,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f50"),
+        "_id": ObjectId("5eab005b0284e043b4166ea5"),
         "img": [
             "https://i.ibb.co/yFnmHvB/home12.jpg"
         ],
@@ -233,6 +277,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.348865,
+            "long": 19.848535
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -240,7 +288,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f51"),
+        "_id": ObjectId("5eab005b0284e043b4166ea6"),
         "img": [
             "https://i.ibb.co/8zx567d/home13.jpg"
         ],
@@ -253,6 +301,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.329554,
+            "long": 19.840954
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -260,7 +312,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f52"),
+        "_id": ObjectId("5eab005b0284e043b4166ea7"),
         "img": [
             "https://i.ibb.co/Wx2s6DP/home14.jpg"
         ],
@@ -273,6 +325,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.322979,
+            "long": 19.845582
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -280,7 +336,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f53"),
+        "_id": ObjectId("5eab005b0284e043b4166ea8"),
         "img": [
             "https://i.ibb.co/k0v8T79/home15.jpg"
         ],
@@ -293,6 +349,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.321045,
+            "long": 19.831012
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -300,7 +360,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f54"),
+        "_id": ObjectId("5eab005b0284e043b4166ea9"),
         "img": [
             "https://i.ibb.co/yYRHfXS/home16.jpg"
         ],
@@ -313,6 +373,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.354893,
+            "long": 19.826441
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 3,
@@ -320,7 +384,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f55"),
+        "_id": ObjectId("5eab005b0284e043b4166eaa"),
         "img": [
             "https://i.ibb.co/9gzRq4x/home17.jpg"
         ],
@@ -333,6 +397,10 @@
             "rruga": "Vasil shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.354893,
+            "long": 19.826441
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 1,
@@ -340,7 +408,7 @@
         "premium": false
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f56"),
+        "_id": ObjectId("5eab005b0284e043b4166eab"),
         "img": [
             "https://i.ibb.co/q7XwJsj/home1.jpg"
         ],
@@ -353,6 +421,10 @@
             "rruga": "Vasil Shanto",
             "qytet": "Tirane"
         },
+        "location": {
+            "lat": 41.360254,
+            "long": 19.808776
+        },
         "gjendja": "rent",
         "siperfaqa": 32,
         "nr_dhomash": 1,
@@ -360,7 +432,7 @@
         "premium": true
     },
     {
-        "_id": ObjectId("5e9b1f6982b3d73e78731f57"),
+        "_id": ObjectId("5eab005b0284e043b4166eac"),
         "img": [
             "https://i.ibb.co/q7XwJsj/home1.jpg"
         ],
@@ -372,6 +444,10 @@
         "adress": {
             "rruga": "Vasil Shanto",
             "qytet": "Lushnje"
+        },
+        "location": {
+            "lat": 41.349667,
+            "long": 19.819251
         },
         "gjendja": "rent",
         "siperfaqa": 32,
